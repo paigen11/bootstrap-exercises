@@ -1,0 +1,25 @@
+.container-fluid{
+	background-color: black;
+	color: white;
+}
+
+h1{
+	border-bottom: 2px solid black;
+	bottom-padding: 5px;
+}
+
+.thumb{
+	padding-bottom: 5px;
+	margin: 10px;
+	box-sizing: border-box;
+	width: 23%;
+	text-align: center;
+}
+
+.thumb img{
+	max-width: 100%;
+}
+
+.nine{
+	clear: left;
+}

@@ -1,0 +1,23 @@
+.row{
+	margin-right: 0px;
+}
+
+.one{
+	height: 25px;
+	background-color: white;
+	border: 1px solid black;
+	margin-bottom: 5px;
+}
+
+.three{
+	height: 65px;
+	background-color: darkgrey;
+	border: 1px solid black;
+	margin-top: 5px;
+}
+
+.two{
+	height: 100px;
+	background-color: grey;
+	border: 1px solid black;
+}
