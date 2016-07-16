@@ -1,0 +1,53 @@
+
+.container{
+	margin: auto;
+}
+
+#header-box, #hero-box, #body-box, #sidebar-box, .footer-box{
+	background-color:  #6699ff;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#ad-box{
+	background-color: #0044cc;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 20px;
+}
+
+.brand, .hero, .body, .sidebar{
+	background-color: #b3ccff;
+}
+
+.brand{
+	height: 58px;
+}
+
+.hero{
+	height: 90px;
+}
+
+.body, .sidebar{
+	height: 290px;
+}
+
+#header-box{
+	height: 135px;
+}
+
+.body-box-row{
+	height: 350px;
+}
+
+#sidebar-box{
+	height: 370px;
+}
+
+.hero-box-row{
+	height: 150px;
+}
+
+.ad-box-row{
+	height: 110px;
+}
